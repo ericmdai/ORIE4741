@@ -1,2 +1,8 @@
-# ORIE4741
-Final Project for ORIE4741 Fall 2017
+# Predicting the Success of Kickstarter Projects
+
+## Group
+Anil Vadali (av42)
+Jesse Wang (yw696)
+Eric Dai (emd88)
+
+
